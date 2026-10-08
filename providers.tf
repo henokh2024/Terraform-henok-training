@@ -11,3 +11,4 @@ version = "~>4.0"
 provider "azurerm" {
 features {}
 subscription_id = ""
+}
