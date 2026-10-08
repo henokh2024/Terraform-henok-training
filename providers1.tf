@@ -1,7 +1,7 @@
 terraform {
  required_providers {
    azurerm = {
-     soucrce = "hashicorp/azurerm"
+     source = "hashicorp/azurerm"
       version = "~> 4.0"
 
     }
